@@ -8,6 +8,50 @@ I'm a passionate and motivated developer currently focused on learning and maste
 
 I am continuously improving my skills in JavaScript and full-stack development while exploring the technologies that power modern web experiences. Through hands-on practice, coding challenges, and personal projects, I aim to strengthen my problem-solving abilities and gain real-world development experience.
 
+🌱 Currently Learning
+
+MongoDB
+
+Express.js
+
+React.js
+
+Node.js
+
+JavaScript (ES6+)
+
+HTML5 & CSS3
+
+Git & GitHub
+
+🎯 My Goals
+
+Build real-world full-stack applications
+
+Develop strong problem-solving skills
+
+Contribute to open-source projects
+
+Connect with developers and tech communities
+
+Gain professional experience through remote opportunities
+
+Continuously learn and adapt to new technologies
+
+💡 What Drives Me
+
+I enjoy learning new concepts, solving challenging problems, and turning ideas into functional applications. Every project and every line of code is an opportunity to improve my skills and grow as a developer.
+
+🤝 Let's Connect
+
+I'm always open to networking, collaboration, and learning from experienced developers. Feel free to connect with me and join me on my journey as I grow into a professional Full-Stack Developer.
+
+🛠️ Technologies & Tools
+
+"Success is the sum of small efforts repeated day in and day out."
+
+
+
 * 🌍  I'm based in india
 * 🧠  I'm currently learning NEXT JS, GSAP , TYPE SCRIPT
 * 💬  Ask me about I LIKE THEORY STUDIES
