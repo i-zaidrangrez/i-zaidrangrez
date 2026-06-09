@@ -8,7 +8,7 @@ I'm a passionate and motivated developer currently focused on learning and maste
 
 I am continuously improving my skills in JavaScript and full-stack development while exploring the technologies that power modern web experiences. Through hands-on practice, coding challenges, and personal projects, I aim to strengthen my problem-solving abilities and gain real-world development experience.
 
-🌱 Currently Learning
+🌱 IMPROVING -
 
 MongoDB
 
