@@ -53,7 +53,7 @@ I'm always open to networking, collaboration, and learning from experienced deve
 
 
 * 🌍  I'm based in india
-* 🧠  I'm currently learning NEXT JS, GSAP , TYPE SCRIPT
+* 🧠  I'm currently learning NEXT JS, TYPE SCRIPT
 * 💬  I LIKE THEORY STUDIES
 
 <p align="left">
@@ -65,6 +65,15 @@ I'm always open to networking, collaboration, and learning from experienced deve
     title="GSAP"
     width="36"
     height="36"
+  />
+</a>
+<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
+  <img
+    src="https://ui.shadcn.com/favicon.ico"
+    width="36"
+    height="36"
+    alt="shadcn/ui"
+    title="shadcn/ui"
   />
 </a>
   
