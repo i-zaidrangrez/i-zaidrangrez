@@ -20,10 +20,6 @@ Node.js
 
 JavaScript (ES6+)
 
-HTML5 & CSS3
-
-Git & GitHub
-
 🎯 My Goals
 
 Build real-world full-stack applications
